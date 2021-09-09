@@ -12,4 +12,4 @@ Redux Basics.
 ## Start for dev
 - `npm i`
 - `npm start`
-- For login use any email/password 
+
