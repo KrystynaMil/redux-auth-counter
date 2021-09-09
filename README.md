@@ -1,4 +1,4 @@
-# [redux-auth-counter]()
+# [redux-auth-counter](https://redux-auth-counter.netlify.app/)
 Demo Redux app an alternative to the context API. Redux auth and simple counter. 
 Redux Basics.
 
